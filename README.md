@@ -6,3 +6,7 @@ Uses Geolocation API to find user’s location, Leaflet Library to display the m
 
 Future Improvements:
 * Add option to input location manually
+
+---
+
+This project was completed as part of a comprehensive programming course created by Jonas Schmedtmann. 
